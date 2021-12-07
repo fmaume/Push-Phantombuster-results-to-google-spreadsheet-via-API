@@ -1,0 +1,7 @@
+{
+  "googleSheetID": "part of the google sheet url",
+  "GOOGLE_SERVICE_ACCOUNT_EMAIL": "to get from google Json",
+  "GOOGLE_PRIVATE_KEY": "to get from google Json",
+  "Input_url": "url of the Phantombuster's result file you want to forward to google sheet",
+  "sheetTitle": "name of the sheet you want to push the data to"
+}
